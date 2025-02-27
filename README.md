@@ -2,9 +2,7 @@
 
 ## 🚀 Revolutionize Your Retail Strategy with PriceSavant!  
 
-PriceSavant is a powerful Python library designed to analyze Product Detail Page (PDP) information from leading online retailers like Amazon, Flipkart etc.
-PriceSavant transforms this data into real-time, actionable insights on category-wise assortment and pricing strategies, empowering retail firms to make strategic decisions with confidence.  
-Empower your retail business with data-driven pricing and assortment insights. Make informed decisions, optimize inventory, and gain a competitive edge—powered by data, without the burden of overpaid and hype-fueled consultants.
+PriceSavant is a powerful Python library designed to analyze Product Detail Page (PDP) information from leading online retailers such as Amazon, Flipkart, and more. It transforms this data into real-time, actionable insights on category-wise assortment and pricing strategies, empowering retail firms to make strategic decisions with confidence. Empower your retail business with data-driven pricing and assortment insights. Make informed decisions, optimize inventory, and gain a competitive edge—powered by data, without the burden of overpriced, hype-driven consultants.
 
 
 ---
@@ -41,7 +39,7 @@ Empower your retail business with data-driven pricing and assortment insights. M
 - Classify competitor SKUs into Fast-Moving and Slow-Moving categories to simplify assortment and new product introduction planning  
 - **Output:** 
 A dynamic liquidation pricing strategy aimed at efficiently offloading slow-moving and end-of-life SKUs. Recommender model will provide strategic bundling and tiered discounting mechanisms.
-Recommender model will also generate a robust, preventive out-of-stock planning framework for competitor fast-moving SKUs with high competitive demand 
+Recommender model will also generate a robust, preventive out-of-stock planning framework for competitor fast-moving SKUs with high demand 
 
 ### 4. NPI Planning (Track New Competitor SKUs & Competitor Demand Growth)  
 **Data Points:** Listing date, review velocity, rating trajectory.  
@@ -71,15 +69,11 @@ Recommender model will also generate a robust, preventive out-of-stock planning 
 
 ### 9. Customer Sentiment Analysis  
 - Extract and analyze review text to identify common themes (e.g., product quality, seller issues)  
-- **Output:** Strategic intelligence for seamless product launches and effortless new seller onboarding integration based on reviews and ratings gather from competitor online retailer
+- **Output:** Strategic intelligence for seamless product launches and effortless new seller onboarding integration based on reviews and ratings gathered from competitor online retailer
 
-### 10. Product Lifecycle Management  
-- Tracks competitor retailer products through their lifecycle (launch, growth, maturity, decline)  
-- **Output:** Captures and generates historical end-of-life pricing strategies for declining products in competitor portfolio  
-
-### 11. Cross-Selling and Upselling Opportunities  
+### 10. Cross-Selling and Upselling Opportunities  
 - Identify complementary products in competitor portfolio based on frequently co-purchased items suggestions in listing page.  
-- **Output:** generate insights on competitor retailer's bundled offers and value added services(VAS) 
+- **Output:** generate insights on competitor online retailer's bundled offers and value added services(VAS) 
 
 ---
 
