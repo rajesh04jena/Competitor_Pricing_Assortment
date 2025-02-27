@@ -2,7 +2,8 @@
 
 ## 🚀 Revolutionize Your Retail Strategy with PriceSavant!  
 
-PriceSavant is a powerful Python library designed to analyze Product Detail Page (PDP) information from leading online retailers like Amazon, Flipkart and transforms this data into real-time, actionable insights on category-wise assortment and pricing strategies, empowering retail firms to make strategic decisions with confidence.  
+PriceSavant is a powerful Python library designed to analyze Product Detail Page (PDP) information from leading online retailers like Amazon, Flipkart etc.
+PriceSavant transforms this data into real-time, actionable insights on category-wise assortment and pricing strategies, empowering retail firms to make strategic decisions with confidence.  
 Empower your retail business with data-driven pricing and assortment insights. Make informed decisions, optimize inventory, and gain a competitive edge—powered by data, without the burden of overpaid and hype-fueled consultants.
 
 
@@ -38,7 +39,9 @@ Empower your retail business with data-driven pricing and assortment insights. M
 **Data Points:** Review/ratings growth rate, sales rank trajectory, price changes  
 **Insights:**  
 - Classify competitor SKUs into Fast-Moving and Slow-Moving categories to simplify assortment and new product introduction planning  
-- **Output:** new product introduction strategies, including price elasticiity driven slow-moving SKUs discounting and pricing, preventive out-of-stock planning against competitor fast-moving SKUs  
+- **Output:** 
+A dynamic liquidation pricing strategy aimed at efficiently offloading slow-moving and end-of-life SKUs. Recommender model will provide strategic bundling and tiered discounting mechanisms.
+Recommender model will also generate a robust, preventive out-of-stock planning framework for competitor fast-moving SKUs with high competitive demand 
 
 ### 4. NPI Planning (Track New Competitor SKUs & Competitor Demand Growth)  
 **Data Points:** Listing date, review velocity, rating trajectory.  
@@ -50,7 +53,7 @@ Empower your retail business with data-driven pricing and assortment insights. M
 **Data Points:** Product attributes (category, size, color, features).  
 **Insights:**  
 - Cluster SKUs by attributes to identify assortment gaps  
-- **Output:** Attribute-based inventory recommendations for more strategic buying  
+- **Output:** Attribute-based assortment planning recommendations for more strategic buying  
 
 ### 6. Optimize Category-wise Listing Timing  
 **Data Points:** Historical listing dates, sales rank trends  
@@ -63,15 +66,15 @@ Empower your retail business with data-driven pricing and assortment insights. M
 - Measure impact of discounts, coupons, and deals on ratings trend and sales rank 
 
 ### 8. Seasonal Demand Forecasting  
-- Analyze historical ratings trend of a listing product to predict demand spikes during holidays or special events of competitor retailer
-- **Output:** Orchestrate event-driven inventory strategies with precision. Master seasonal discount elasticity and craft high-impact offer campaigns with data-driven foresight
+- Analyze historical ratings trend of a listing product to predict demand spikes during holidays or special events of competitor online retailer
+- **Output:** Orchestrate event-driven inventory strategies with precision to cannibalize competitor sales. Master seasonal discount elasticity and craft high-impact offer campaigns with data-driven foresight
 
 ### 9. Customer Sentiment Analysis  
 - Extract and analyze review text to identify common themes (e.g., product quality, seller issues)  
-- **Output:** Strategic intelligence for seamless product launches and effortless new seller onboarding integration
+- **Output:** Strategic intelligence for seamless product launches and effortless new seller onboarding integration based on reviews and ratings gather from competitor online retailer
 
 ### 10. Product Lifecycle Management  
-- Tracks competitor products through their lifecycle (launch, growth, maturity, decline)  
+- Tracks competitor retailer products through their lifecycle (launch, growth, maturity, decline)  
 - **Output:** Captures and generates historical end-of-life pricing strategies for declining products in competitor portfolio  
 
 ### 11. Cross-Selling and Upselling Opportunities  
