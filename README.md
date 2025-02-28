@@ -2,7 +2,9 @@
 
 ## 🚀 Revolutionize Your Retail Strategy with PriceSavant!  
 
-PriceSavant is a powerful Python library designed to analyze Product Detail Page (PDP) information from leading online retailers such as Amazon, Flipkart, and more. It transforms this data into real-time, actionable insights on category-wise assortment and pricing strategies, empowering retail firms to make strategic decisions with confidence. Empower your retail business with data-driven pricing and assortment insights. Make informed decisions, optimize inventory, and gain a competitive edge—powered by data, without the burden of overpriced, hype-driven consultants.
+PriceSavant is a powerful Python library designed to analyze Product Detail Page (PDP) information from leading online retailers such as Amazon, Flipkart, and more. It transforms this data into real-time, actionable insights on category-wise assortment and pricing strategies, empowering retail firms to make strategic decisions with confidence. Empower your retail business with data-driven pricing and assortment insights. 
+
+Make informed pricing decisions, optimize inventory, and gain a competitive edge—powered by data, without the burden of overpaid and hype-driven consultants.
 
 
 ---
